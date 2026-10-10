@@ -1,6 +1,7 @@
 package io.github.abradee.simplyNotifier;
 
 import de.clickism.modrinthupdatechecker.ModrinthUpdateChecker;
+import io.github.abradee.simplyNotifier.Listeners.ChatListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class SimplyNotifier extends JavaPlugin {

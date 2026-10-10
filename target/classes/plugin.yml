@@ -1,7 +1,7 @@
 name: SimplyNotifier
 description: $description
 prefix: SimplyNotifier
-version: '1.0-SNAPSHOT'
+version: '1.0'
 
 main: io.github.abradee.simplyNotifier.SimplyNotifier
 paper-plugin-loader: io.github.abradee.simplyNotifier.SimplyNotifierLoader
