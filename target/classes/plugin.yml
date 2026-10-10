@@ -1,0 +1,12 @@
+name: SimplyNotifier
+description: $description
+prefix: SimplyNotifier
+version: '1.0-SNAPSHOT'
+
+main: io.github.abradee.simplyNotifier.SimplyNotifier
+paper-plugin-loader: io.github.abradee.simplyNotifier.SimplyNotifierLoader
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ abradee ]
+website: https://modrinth.com/plugin/SimplyNotifier
