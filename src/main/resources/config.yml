@@ -1,0 +1,6 @@
+# SimplyNotifier Config
+# (c) abradee 2026
+
+notify-actionbar: true
+notify-sound: true
+notification-sound: minecraft:experience_orb_pickup
